@@ -58,6 +58,12 @@
       "url": "https://github.com/Emerald-Legacy-Launcher/Emerald-Legacy-Launcher",
       "priority": 9,
       "tag": "launcher"
+    },
+    {
+      "name": "openLCE / openLCE",
+      "url": "https://openlce.org",
+      "priority": 10,
+      "tag": "game"
     }
   ]
 }
