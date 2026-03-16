@@ -71,7 +71,7 @@
       "priority": 11,
       "tag": "launcher"
     },
-        {
+    {
       "name": "neoapps-dev / legacy-launcher",
       "url": "https://github.com/neoapps-dev/legacy-launcher",
       "priority": 12,
