@@ -29,7 +29,7 @@
     },
     {
       "name": "piebot / LegacyEvolved",
-      "url": "https://github.com/piebotc/LegacyEvolved",
+      "url": "https://codeberg.org/piebot/LegacyEvolved",
       "priority": 5,
       "tag": "game"
     },
