@@ -28,8 +28,8 @@
       "mirror": "https://git.minecraftlegacy.com/backups/LCEMP"
     },
     {
-      "name": "piebot / LegacyEvolved",
-      "url": "https://codeberg.org/piebot/LegacyEvolved",
+      "name": "pieeebot / neoLegacy",
+      "url": "https://github.com/LCE-Hub/neoLegacy",
       "priority": 5,
       "tag": "game"
     },
